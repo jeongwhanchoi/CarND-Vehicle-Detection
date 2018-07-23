@@ -1,6 +1,4 @@
-
-
-tebook ###
+###Jupyter Notebook ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
@@ -117,3 +115,6 @@ venv.bak/
 ### Python Patch ###
 .venv/
 
+
+### Dataset ###
+dataset/
